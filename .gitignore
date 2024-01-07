@@ -1,0 +1,5 @@
+bin/
+gowatch.yml
+config.yaml
+
+.DS_Store
